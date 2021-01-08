@@ -13,8 +13,8 @@ Open 'store/services.js' and update the `baseURL` with your application's URL fo
 Add the module reducer and saga to your '/src/store/index.js' file:
 1. Add the imports
 ```
-import articlesReducer from '../features/<module_directory>/store/reducers'
-import articlesSagas from '../features/<module_directory>/store/sagas'
+import articlesReducer from '../features/Articles-Frontend116882/store/reducers'
+import articlesSagas from '../features/Articles-Frontend116882/store/sagas'
 ```
 2. Add the reducer
 ```
